@@ -3,6 +3,9 @@
 // @version  1
 // @include https://twitch.tv/*
 // @include https://www.twitch.tv/*
+// @homepage https://github.com/TwitchUser42069/userscript-hide-twitch-channels
+// @updateURL https://raw.githubusercontent.com/TwitchUser42069/userscript-hide-twitch-channels/master/hide-twitch-channels.userscript.js
+// @downloadURL https://raw.githubusercontent.com/TwitchUser42069/userscript-hide-twitch-channels/master/hide-twitch-channels.userscript.js
 // ==/UserScript==
 
 const style = document.createElement('style');
@@ -26,6 +29,7 @@ const shittyChannels = [
   'https://www.twitch.tv/malinkaa98',
   'https://www.twitch.tv/asmr_arale',
   'https://www.twitch.tv/sarenewild',
+  'https://www.twitch.tv/ijenz',
   // sometimes reruns:
   'https://www.twitch.tv/miwo',
   'https://www.twitch.tv/mirys',
@@ -111,6 +115,7 @@ shittyChannels.forEach((shittyChannel) => {
   shittyChannel = shittyChannel.replace('https://www.twitch.tv/', '');
   // block recommended tag (Firefox 103 needs layout.css.has-selector.enabled=true in about:config)
 	selectors.push(`div:has(>[href="/${shittyChannel}"])`);
+	selectors.push(`.tw-tower>div:has(>div>div>div>article>div>div>div>div>a[href="/${shittyChannel}"])`); // lol
 });
 
 
