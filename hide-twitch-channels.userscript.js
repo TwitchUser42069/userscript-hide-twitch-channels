@@ -41,6 +41,7 @@ const shittyChannels = [
   'https://www.twitch.tv/riinahlucidvt',
   'https://www.twitch.tv/gwing',
   'https://www.twitch.tv/katyma12',
+  'https://www.twitch.tv/maryjaneasmr',
   // random videos or 24/7 channels: (not streamers)
   'https://www.twitch.tv/asmr_massagess1',
   'https://www.twitch.tv/asmrmassagess1',
@@ -69,6 +70,12 @@ const shittyChannels = [
   'https://www.twitch.tv/holidayfireplace',
   'https://www.twitch.tv/al_markowicz',
   'https://www.twitch.tv/soundsofrelaxation',
+  'https://www.twitch.tv/asmr_diamond',
+  'https://www.twitch.tv/boyfriendai',
+  'https://www.twitch.tv/wibetankachu',
+  'https://www.twitch.tv/asmr_maker',
+  'https://www.twitch.tv/coolsleepmusic',
+  'https://www.twitch.tv/jocie_b_asmr',
   // rr vtubers or those static anime images with asmr sounds:
   'https://www.twitch.tv/japan_asmr',
   'https://www.twitch.tv/asmr_marie',
@@ -87,6 +94,11 @@ const shittyChannels = [
   'https://www.twitch.tv/livingroom_tv',
   'https://www.twitch.tv/asrmforall',
   'https://www.twitch.tv/hermosuraia',
+  'https://www.twitch.tv/keimiasmr',
+  'https://www.twitch.tv/asmr_ushio',
+  'https://www.twitch.tv/rudhi0305',
+  'https://www.twitch.tv/mewlyna',
+  'https://www.twitch.tv/azumiiasmr',
   // spam channels
   'https://www.twitch.tv/clarix_6',
   'https://www.twitch.tv/honeyhazeee',
@@ -104,6 +116,17 @@ const shittyChannels = [
   'https://www.twitch.tv/wsekor', // fake
   'https://www.twitch.tv/mesthretv', // ??
   'https://www.twitch.tv/blockysplashy',
+  'https://www.twitch.tv/almightyraud',
+  'https://www.twitch.tv/sbr717',
+  'https://www.twitch.tv/phishybizniz',
+  'https://www.twitch.tv/atiasadi',
+  'https://www.twitch.tv/marish_asmr',
+  'https://www.twitch.tv/asmr_gabisan',
+  'https://www.twitch.tv/asmr_nisa',
+  'https://www.twitch.tv/cortesdoserrado',
+  'https://www.twitch.tv/snusoedij',
+  'https://www.twitch.tv/gameboy2012j',
+  'https://www.twitch.tv/l1ndstromdk',
   // ## END ASMR
 ];
 
