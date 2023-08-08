@@ -32,6 +32,7 @@ const shittyChannels = [
   'https://www.twitch.tv/ijenz',
   'https://www.twitch.tv/reneesrealm',
   'https://www.twitch.tv/firesighedchatsasmr',
+  'https://www.twitch.tv/argelyasmr', // "Live" desc but not actually live
   // sometimes reruns:
   'https://www.twitch.tv/miwo',
   'https://www.twitch.tv/mirys',
@@ -47,8 +48,10 @@ const shittyChannels = [
   'https://www.twitch.tv/firesighedchatsasmr',
   'https://www.twitch.tv/ebybz',
   'https://www.twitch.tv/riza',
-  'https://www.twitch.tv/solacesoulasmr',
+  'https://www.twitch.tv/solacesoulasmr', // this is a hard "sometimes", depends on your RR preference
   'https://www.twitch.tv/jessica_secrets',
+  'https://www.twitch.tv/nefercali',
+  'https://www.twitch.tv/caitlin',
   // random videos or 24/7 channels: (not streamers)
   'https://www.twitch.tv/asmr_massagess1',
   'https://www.twitch.tv/asmrmassagess1',
@@ -86,6 +89,7 @@ const shittyChannels = [
   'https://www.twitch.tv/asmrobjects',
   'https://www.twitch.tv/manimeu',
   'https://www.twitch.tv/sleepy_earth',
+  'https://www.twitch.tv/stormchaserirl',
   // rr vtubers or those static anime images with asmr sounds:
   'https://www.twitch.tv/japan_asmr',
   'https://www.twitch.tv/asmr_marie',
@@ -116,6 +120,8 @@ const shittyChannels = [
   'https://www.twitch.tv/sheekiyomi',
   'https://www.twitch.tv/novah_asmr',
   'https://www.twitch.tv/enoika',
+  'https://www.twitch.tv/cutieloony',
+  'https://www.twitch.tv/asmrcute',
   // spam channels
   'https://www.twitch.tv/clarix_6',
   'https://www.twitch.tv/honeyhazeee',
@@ -163,7 +169,11 @@ const shittyChannels = [
   'https://www.twitch.tv/gamebience',
   'https://www.twitch.tv/mommarapper',
   'https://www.twitch.tv/maadasmrtriggers',
-  
+  'https://www.twitch.tv/asmr_for_you',
+  'https://www.twitch.tv/gilbertocorcuera',
+  'https://www.twitch.tv/cutestmanintheworld',
+  'https://www.twitch.tv/tarokros',
+  'https://www.twitch.tv/nevergotfamous',
   // ## END ASMR
 ];
 
